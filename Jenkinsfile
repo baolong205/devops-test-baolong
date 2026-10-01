@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         GH_REPO = 'https://github.com/baolong205/devops-test-baolong.git'
-        GH_PAGES_BRANCH = 'gh-pages'
+        GH_PAGES_BRANCH = 'main'
         PROJECT_NAME = 'devops-test'
         PROJECT_BRANCH = 'main'
         APP_URL = 'https://baolong205.github.io/devops-test-baolong/'
